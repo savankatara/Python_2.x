@@ -6,5 +6,4 @@ print  " max(a)",max(a)
 print cmp(b, a)
 c=10
 print exp(c)
-c=50.8
 print floor(c)
