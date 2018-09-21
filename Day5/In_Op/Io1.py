@@ -1,5 +1,5 @@
 
-a=open("myfile.txt","r")
+a=open("my.txt","r")
 b=a.read()
 print a.mode
 print a.name
