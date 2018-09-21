@@ -1,7 +1,7 @@
 try:
     a=10/0
     print a
-except ArithmeticError :
-    print "this statement is raising an exception"
+except ArithmeticError, a :
+    print "this statement is raising an exception",a
 else:
     print "welcome"    

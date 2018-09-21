@@ -9,5 +9,3 @@ try:
         a.close()
 except:
     print "file can not be read"
-    
-      

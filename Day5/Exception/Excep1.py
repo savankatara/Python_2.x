@@ -3,5 +3,5 @@ try:
     print a
 except :
     print "this statement is raising an exception"
-#else:
+else:
     print "welcome"    
